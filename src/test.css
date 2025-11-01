@@ -1,0 +1,12 @@
+/* Test CSS to verify our styles are loading */
+body {
+  background: red !important;
+  font-size: 20px !important;
+}
+
+.test-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  color: white !important;
+  padding: 20px !important;
+  margin: 20px !important;
+}
